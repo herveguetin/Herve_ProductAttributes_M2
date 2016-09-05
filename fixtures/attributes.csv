@@ -1,0 +1,136 @@
+frontend_label,frontend_input,options,attribute_code,attribute_group,attribute_set
+Activity,multiselect,"Hike
+Outdoor
+Running
+Warmup
+Yoga
+Recreation
+Lounge
+Gym
+Climbing
+Crosstraining
+Post-workout
+Cycling
+Athletic
+Sports
+Hiking
+Overnight
+School
+Trail
+Travel
+Urban",activity,Content,"Top
+Bottom
+Gear
+Sprite Stasis Ball
+Sprite Yoga Strap
+Downloadable
+Bag"
+Style Bags,multiselect,"Backpack
+Luggage
+Duffel
+Messenger
+Laptop
+Exercise
+Tote",style_bags,,Bag
+Material,multiselect,"Burlap
+Canvas
+Cotton
+Faux Leather
+Leather
+Mesh
+Nylon
+Polyester
+Rayon
+Ripstop
+Suede
+Foam
+Metal
+Plastic
+Rubber
+Synthetic
+Stainless Steel
+Silicone",material,Material,"Gear
+Sprite Stasis Ball
+Sprite Yoga Strap
+Top
+Bottom
+Bag"
+Color,select,"Black
+Blue
+Brown
+Gray
+Green
+Lavender
+Multi
+Orange
+Purple
+Red
+White
+Yellow",color,Material,"Top
+Bottom
+Bag
+Gear
+Sprite Stasis Ball
+Sprite Yoga Strap"
+Strap/Handle,multiselect,"Adjustable
+Cross Body
+Detachable
+Double
+Padded
+Shoulder
+Single
+Telescoping",strap_bags,Features,Bag
+Features,multiselect,"Audio Pocket
+Wheeled
+Hydration Pocket
+Audio Pocket
+Flapover
+Waterproof
+Lightweight
+TSA Approved
+Reflective
+Laptop Sleeve
+Lockable",features_bags,Features,Bag
+Gender,multiselect,"Men
+Women
+Boys
+Girls
+Unisex",gender,Collection,"Gear
+Sprite Stasis Ball
+Sprite Yoga Strap"
+Category Gear,multiselect,"Cardio
+Electronic
+Exercise
+Fashion
+Hydration
+Timepiece",category_gear,Collection,"Gear
+Sprite Stasis Ball
+Sprite Yoga Strap"
+Size,select,"55 cm
+65 cm
+75 cm
+6 foot
+8 foot
+10 foot",size,Size,"Sprite Stasis Ball
+Sprite Yoga Strap"
+Eco Collection,boolean,,eco_collection,Collection,"Gear
+Bag
+Top
+Bottom
+EcoCollection"
+Performance Fabric,boolean,,performance_fabric,Collection,"Gear
+Bag
+Top
+Bottom"
+Erin Recommends,boolean,,erin_recommends,Content,"Gear
+Bag
+Top
+Bottom"
+New,boolean,,new,Collection,"Gear
+Bag
+Top
+Bottom"
+Sale,boolean,,sale,Content,"Gear
+Bag
+Top
+Bottom"
